@@ -1,0 +1,64 @@
+2021-01-07 20:28:13 INFO  .:39 - I execute SignIn EndPoint
+2021-01-07 20:28:13 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-01-07 20:28:13 INFO  .:61 - I submit the Post request for SignIn
+2021-01-07 20:28:33 INFO  .:92 - I should get 200 success status code
+2021-01-07 20:28:33 INFO  .:39 - I execute SignIn EndPoint
+2021-01-07 20:28:33 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-01-07 20:28:33 INFO  .:61 - I submit the Post request for SignIn
+2021-01-07 20:28:34 INFO  .:92 - I should get 200 success status code
+2021-01-07 20:28:34 INFO  .:114 - I execute CreateUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-01-07 20:28:34 INFO  .:134 - I submit the Post request for CreateUser
+2021-01-07 20:28:36 INFO  .:170 - I should get 201 success status code along with response body
+2021-01-07 20:28:36 INFO  .:197 - I execute DisplayUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-01-07 20:28:36 INFO  .:217 - I submit the Get request for DisplayUser
+2021-01-07 20:28:37 INFO  .:239 - I should get 200 success status code along with response body
+2021-01-07 20:28:37 INFO  .:269 - I execute ModifyUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-01-07 20:28:37 INFO  .:289 - I submit the Put request for ModifyUser
+2021-01-07 20:28:39 INFO  .:326 - I should get 200 success status code along with response body for ModifyUser
+2021-01-07 20:28:39 INFO  .:356 - I execute DeleteUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-01-07 20:28:39 INFO  .:376 - I submit the delete request for DeleteUser
+2021-01-07 20:28:40 INFO  .:399 - I should get 202 success status code for delete
+2021-03-06 19:53:33 INFO  .:39 - I execute SignIn EndPoint
+2021-03-06 19:53:33 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-03-06 19:53:33 INFO  .:61 - I submit the Post request for SignIn
+2021-03-06 19:53:49 INFO  .:92 - I should get 200 success status code
+2021-03-06 19:53:49 INFO  .:39 - I execute SignIn EndPoint
+2021-03-06 19:53:49 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-03-06 19:53:49 INFO  .:61 - I submit the Post request for SignIn
+2021-03-06 19:53:51 INFO  .:92 - I should get 200 success status code
+2021-03-06 19:53:51 INFO  .:114 - I execute CreateUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:53:51 INFO  .:134 - I submit the Post request for CreateUser
+2021-03-06 19:53:51 ERROR .:154 - There is an exception has arised during execution :java.lang.IllegalArgumentException: Header value cannot be null
+2021-03-06 19:53:51 INFO  .:170 - I should get 201 success status code along with response body
+2021-03-06 19:53:51 INFO  .:197 - I execute DisplayUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:53:51 INFO  .:217 - I submit the Get request for DisplayUser
+2021-03-06 19:53:51 ERROR .:223 - There is an exception has arised during execution :java.lang.IllegalArgumentException: Header value cannot be null
+2021-03-06 19:53:51 INFO  .:239 - I should get 200 success status code along with response body
+2021-03-06 19:53:51 INFO  .:269 - I execute ModifyUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:53:51 INFO  .:289 - I submit the Put request for ModifyUser
+2021-03-06 19:53:51 ERROR .:310 - There is an exception has arised during execution :java.lang.IllegalArgumentException: Header value cannot be null
+2021-03-06 19:53:51 INFO  .:326 - I should get 200 success status code along with response body for ModifyUser
+2021-03-06 19:53:51 INFO  .:356 - I execute DeleteUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:53:51 INFO  .:376 - I submit the delete request for DeleteUser
+2021-03-06 19:53:51 ERROR .:383 - There is an exception has arised during execution :java.lang.IllegalArgumentException: Header value cannot be null
+2021-03-06 19:53:51 INFO  .:399 - I should get 202 success status code for delete
+2021-03-06 19:55:44 INFO  .:39 - I execute SignIn EndPoint
+2021-03-06 19:55:44 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-03-06 19:55:44 INFO  .:61 - I submit the Post request for SignIn
+2021-03-06 19:55:50 INFO  .:92 - I should get 200 success status code
+2021-03-06 19:55:50 INFO  .:39 - I execute SignIn EndPoint
+2021-03-06 19:55:50 INFO  .:41 - I execute SignIn EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/students/sign_in
+2021-03-06 19:55:50 INFO  .:61 - I submit the Post request for SignIn
+2021-03-06 19:55:52 INFO  .:92 - I should get 200 success status code
+2021-03-06 19:55:52 INFO  .:114 - I execute CreateUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:55:52 INFO  .:134 - I submit the Post request for CreateUser
+2021-03-06 19:55:54 INFO  .:170 - I should get 201 success status code along with response body
+2021-03-06 19:55:54 INFO  .:197 - I execute DisplayUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:55:54 INFO  .:217 - I submit the Get request for DisplayUser
+2021-03-06 19:55:55 INFO  .:239 - I should get 200 success status code along with response body
+2021-03-06 19:55:55 INFO  .:269 - I execute ModifyUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:55:55 INFO  .:289 - I submit the Put request for ModifyUser
+2021-03-06 19:55:56 INFO  .:326 - I should get 200 success status code along with response body for ModifyUser
+2021-03-06 19:55:56 INFO  .:356 - I execute DeleteUser EndPoint https://enigmatic-meadow-39517.herokuapp.com/api/v1/users
+2021-03-06 19:55:56 INFO  .:376 - I submit the delete request for DeleteUser
+2021-03-06 19:55:58 INFO  .:399 - I should get 202 success status code for delete
